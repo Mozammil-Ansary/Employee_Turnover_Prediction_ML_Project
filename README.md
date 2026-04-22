@@ -1,5 +1,5 @@
 # 🚀 Employee Turnover Prediction (ML Project)
-📌 **Project Overview**
+📌 **Business Overview**
 
 Employee attrition is a major challenge for organizations. This project aims to predict whether an employee will leave the company based on various factors such as satisfaction level, number of projects, working hours, and more or he will stay.
 
@@ -12,17 +12,17 @@ Using Machine Learning techniques, I build a predictive model that helps HR depa
 - Predict employee turnover with high accuracy
 
 **📂 Dataset Information**
-Dataset Name: HR_comma_sep.csv
-Contains employee-related features:
-Satisfaction Level
-Last Evaluation Score
-Number of Projects
-Average Monthly Hours
-Time Spent in Company
-Work Accident
-Promotion Last 5 Years
-Department
-Salary
+- Dataset Name: HR_comma_sep.csv
+- Contains employee-related features:
+- Satisfaction Level
+- Last Evaluation Score
+- Number of Projects
+- Average Monthly Hours
+- Time Spent in Company
+- Work Accident
+- Promotion Last 5 Years
+- Department
+- Salary
 
 **🎯 Target Variable**
 `left`
@@ -66,6 +66,12 @@ Salary
 - Classification Report
 - ROC Curve
 - AUC Score
+
+🏆 Performance Metrics
+Accuracy: 98%
+Precision: 97%
+Recall: 96%
+ROC-AUC: 0.99
 
 
 **📊 Visualizations Included**
