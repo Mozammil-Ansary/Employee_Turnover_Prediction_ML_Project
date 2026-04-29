@@ -86,4 +86,4 @@ ROC-AUC: 0.99
 
 **🚀 How to Run the Project**
 1️⃣ *Clone the repository*
-git clone https://github.com/your-username/employee-turnover-prediction.git
+git clone https://https://github.com/Mozammil-Ansary/Employee_Turnover_Prediction_ML_Project.git
